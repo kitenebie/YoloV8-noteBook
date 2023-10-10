@@ -1,2 +1,2 @@
-# water-refilling
-water-refilling-2023-2024
+# Yolov8 AI detection Training
+AI detection Training-2023-2024
